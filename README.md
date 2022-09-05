@@ -1,6 +1,6 @@
 # DivinityProtector
 ## What is it?
-A crypter written in Python, supporting both <b>.NET</b> and <b>Native</b> (x32/64) executables.
+A crypter written in Python with use of PyQt5 UI, supporting both <b>.NET</b> and <b>Native</b> (x32/64) executables.
 ## What functions does it have?
 Currently implemented methods are <b>obfuscation</b>, <b>timer</b> check with random delay and <b>anti debugging</b>.
 ## What is the advantage of a crypter being written in Python?
